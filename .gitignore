@@ -1,0 +1,5 @@
+.git
+board/.env
+board/__pycache__/
+venv/
+board.sqlite
